@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23844375855",
+    "project_id": "appsitabb",
+    "storage_bucket": "appsitabb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23844375855:android:bc7fd7fb5f10a1323d25da",
+        "android_client_info": {
+          "package_name": "com.example.appsita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMNfJ4YXI9mKl74Lr8fH6YRIZG1zav_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
